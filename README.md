@@ -88,6 +88,3 @@ http://localhost:3000
 
 Desarrollado por **ferzincal**.
 
-```
-
-```
